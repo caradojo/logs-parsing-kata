@@ -1,0 +1,45 @@
+DOJO [debug] - [03/Jan/2016:23:33:29 +0100] > SESSIONID:sqlsbr94aibc1or3cbe2t2oo57 | user:user1 | HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko | MAIL | http://webmail.dojo.fr:80/getHeaderList.xml | FOLDER=INBOX&PAGE=1&NBDISPLAYMSG=5&SORTBY=1 | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>500</code><mnemo>TECHNICAL_EXCEPTION</mnemo></status></response>
+DOJO [debug] - [03/Jan/2016:23:33:38 +0100] > SESSIONID:h8g6td6o6iblv7a76tjgknrli7 | user:user2 | HTTP_USER_AGENT:Mozilla/5.0 (Linux; Android 4.4.2; SM-G800F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36 | MAIL | http://webmail.dojo.fr:80/getMail.xml | FOLDER=SF_INBOX&IDMSG=1132 | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>300</code><mnemo>UNKNOWN_MAIL_ID</mnemo></status></response>
+DOJO [debug] - [03/Jan/2016:23:35:50 +0100] > SESSIONID:js1fbammn2labog5td5tnibmq1 | user:user3 | HTTP_USER_AGENT:Mozilla/5.0 (Linux; Android 4.1.2; GT-P5110 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safari/537.36 | MAIL | http://webmail.dojo.fr:80/previewImages.xml | FOLDER=SF_INBOX&IDMSG=1499&width=2560&height=2560 | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>317</code><mnemo>UNSUPPORTED_TYPE</mnemo></status></response>
+DOJO [debug] - [03/Jan/2016:23:41:20 +0100] > SESSIONID:1i8l1f4anco72r0r6te6ce1rs0 | user:user4 | HTTP_USER_AGENT:Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G531F-ORANGE Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36 | MAIL | http://webmail.dojo.fr:80/getMail.xml | FOLDER=SF_INBOX&IDMSG=1142 | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>300</code><mnemo>UNKNOWN_MAIL_ID</mnemo></status></response>
+DOJO [debug] - [03/Jan/2016:23:41:42 +0100] > SESSIONID:9h64uv5n8o5rl5lc5ig75ag8m6 | user:user2 | HTTP_USER_AGENT:Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1 | MAIL | http://webmail.dojo.fr:80/getMail.xml | FOLDER=SF_INBOX&IDMSG=1840 | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>300</code><mnemo>UNKNOWN_MAIL_ID</mnemo></status></response>
+DOJO [debug] - [03/Jan/2016:23:43:39 +0100] > SESSIONID:sqlsbr94aibc1or3cbe2t2oo57 | user:user5 | HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko | MAIL | http://webmail.dojo.fr:80/getHeaderList.xml | FOLDER=SF_INBOX&PAGE=1&NBDISPLAYMSG=5&SORTBY=1&RETURN_PROFILE_ID=lightProfileOOPRO&SEQUENCE_NUMBER=5 | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>500</code><mnemo></mnemo></status></response>
+DOJO [debug] - [03/Jan/2016:23:45:18 +0100] > SESSIONID:dnrc6bhotlet3omibm5u89mt30 | user:user1 | HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240 | MAIL | http://webmail.dojo.fr:80/getMail.xml | FOLDER=SF_INBOX&IDMSG=undefined | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>200</code><mnemo>PARAMETER_UNDEFINED</mnemo></status></response>
+DOJO [debug] - [03/Jan/2016:23:47:14 +0100] > SESSIONID:j213pqm0jujujksvd1m4c224d4 | user:user6 | HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 | MAIL | http://webmail.dojo.fr:80/getMail.xml | FOLDER=SF_OUTBOX&IDMSG=3645 | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>300</code><mnemo>UNKNOWN_MAIL_ID</mnemo></status></response>
+DOJO [debug] - [03/Jan/2016:23:48:29 +0100] > SESSIONID:slj3u6h72vrtln0ojdvf9j86i0 | user:user7 | HTTP_USER_AGENT:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9 | MAIL | http://webmail.dojo.fr:80/getMail.xml | FOLDER=SF_TRASH&IDMSG=undefined | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>200</code><mnemo>PARAMETER_UNDEFINED</mnemo></status></response>
+DOJO [debug] - [04/Jan/2016:22:35:59 +0100] > SESSIONID:3coecinvh3q1g5rh2rdtonmfi0 | user:user8 | HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 | MAIL | http://webmail.dojo.fr:80/sendMail.xml | data user8 to parse;
+
+
+
+Text that should be filtered
+
+Another text that should be filtered
+Third text that should be filtered
+
+
+Again, text that should be filtered 
+
+
+Last text that should be filtered | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>500</code><mnemo>TECHNICAL_EXCEPTION</mnemo></status></response>
+DOJO [debug] - [04/Jan/2016:00:56:09 +0100] > SESSIONID:g2olerfbu59o4bhmd5i230qs55 | user:user3 | HTTP_USER_AGENT:Mozilla/5.0 (Linux; Android 5.0; SM-N9005 Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36 | MAIL | http://webmail.dojo.fr:80/getMail.xml | FOLDER=SF_INBOX&IDMSG=2348 | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>300</code><mnemo>UNKNOWN_MAIL_ID</mnemo></status></response>
+DOJO [debug] - [04/Jan/2016:01:02:33 +0100] > SESSIONID:59gpme6emlrmgt0d8vbv4fjon6 | user:user9 | HTTP_USER_AGENT:Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1 | MAIL | http://webmail.dojo.fr:80/getAccount.xml |  | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>500</code><mnemo>TECHNICAL_EXCEPTION</mnemo></status></response>
+DOJO [debug] - [04/Jan/2016:15:57:58 +0100] > SESSIONID:0mchrvhvgsap3rv9me9dl6bva2 | user:user6 | HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko | MAIL | http://webmail.dojo.fr:80/sendMail.xml | data user6 to parse;
+
+Text that should be filtered
+Another text that should be filtered
+
+Third text that should be filtered
+Again, text that should be filtered
+
+
+
+Last text that should be filtered |
+DOJO [debug] - [04/Jan/2016:15:57:58 +0100] > SESSIONID:gg9s99an450fq06n4vl8fimuv3 | user:user10 | HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko | MAIL | http://webmail.dojo.fr:80/getMail.xml | FOLDER=SF_INBOX&IDMSG=59747 | <?xml version="1.0" encoding="UTF-8" ?><response><status><code>500</code><mnemo>TECHNICAL_EXCEPTION</mnemo></status></response>
+DOJO [debug] - [04/Jan/2016:15:58:03 +0100] > SESSIONID:0mchrvhvgsap3rv9me9dl6bva2 | user:user5 | HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko | MAIL | http://webmail.dojo.fr:80/getMail.xml | FOLDER=SF_INBOX&IDMSG=1698 | {"error":0, "message":"no response"}
+DOJO [debug] - [04/Jan/2016:10:17:16 +0100] > SESSIONID:3b4n1c8uvpnog667eh2tke4jd1 | user:user11 | HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 | CONTACT | http://contact.dojo.fr/v | Array | <html>
+<head><title>500 Internal Server Error</title></head>
+<body bgcolor="white">
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>data info</center>
+</body>
+</html>
