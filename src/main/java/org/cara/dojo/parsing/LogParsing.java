@@ -4,6 +4,7 @@ import java.nio.file.Path;
 
 public class LogParsing {
 
-	public void parse(Path pathInputLogFile, Path pathOutputLogFile) {
-	}
+  public void parse(Path pathInputLogFile, Path pathOutputLogFile) {
+  
+  }
 }
